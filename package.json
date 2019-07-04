@@ -1,0 +1,12 @@
+{
+  "name": "passwd",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Gregory Tandiono <gregtandiono@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "argv": "^0.0.2",
+    "bcryptjs": "^2.4.3",
+    "yargs": "^13.2.4"
+  }
+}
